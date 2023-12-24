@@ -25,7 +25,7 @@ Member 02:
 - [Meeting 04](https://docs.google.com/document/d/1GEOJyGDSfMuKR_PvRWBP-v8MerZVHhYtVsw9w1uL87w/edit?usp=sharing)
     
 ## References:
-- Documents of subject Introduction Programming for Data Science - lecture Phạm Trọng Nghĩa - Ho Chi Minh University of Science
+- Documents of subject Introduction Programming for Data Science - lecturer Phạm Trọng Nghĩa - Ho Chi Minh University of Science
 - How to use markdown effectively: https://www.markdownguide.org/basic-syntax/
 - Matplotlib Documents: https://matplotlib.org/stable/gallery/
   
