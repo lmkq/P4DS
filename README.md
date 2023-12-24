@@ -14,7 +14,7 @@ Member 02:
 - Id: 21127681  
 - Email: lmkquynh21@clc.fitus.edu.vn  
 
-## Trello: 
+## [Trello](https://trello.com/invite/b/B1YGxrWB/ATTI19cb3f0bba9638434ed1921ac8e5cca3D27EB972/final-project-p4ds)
 ## Meeting reports
 - [Meeting 01](https://docs.google.com/document/d/1zWEzfo8Lv-GTMoeNB60PQvJ6xN8g4JiXH1SnyuDc0Fg/edit)
 - [Meeting 02](https://docs.google.com/document/d/1v93hofeKQwErGIXwDtGbgFIw8Uiw0QZ2CTJTS5lHBeA/edit?usp=sharing)
