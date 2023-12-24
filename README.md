@@ -14,7 +14,7 @@ Member 02:
 - Id: 21127681  
 - Email: lmkquynh21@clc.fitus.edu.vn
 
-# Introduction
+## Introduction
   
 ## Project Plan: [Trello](https://trello.com/invite/b/B1YGxrWB/ATTI19cb3f0bba9638434ed1921ac8e5cca3D27EB972/final-project-p4ds)  
   
@@ -26,6 +26,6 @@ Member 02:
     
 ## References:
 - Documents of subject Introduction Programming for Data Science - lecture Phạm Trọng Nghĩa - Ho Chi Minh University of Science
-- How to use markdown effectively: (https://www.markdownguide.org/basic-syntax/)
-- Matplotlib Documents: (https://matplotlib.org/stable/gallery/)
+- How to use markdown effectively: https://www.markdownguide.org/basic-syntax/
+- Matplotlib Documents: https://matplotlib.org/stable/gallery/
   
