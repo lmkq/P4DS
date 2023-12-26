@@ -1,16 +1,10 @@
 # Programming for Data Science - Final Project
 ## Group Information  
-### Group: `23` - **DKQ**
-   
-Member 01:  
-- Name: Nguyễn Duy Đăng Khoa  
-- Id: 21127078  
-- Email: nddkhoa21@clc.fitus.edu.vn  
-
-Member 02:  
-- Name: Lê Mỹ Khánh Quỳnh  
-- Id: 21127681  
-- Email: lmkquynh21@clc.fitus.edu.vn
+### Group: `23` - **DKQ**  
+| Name               | Student ID | Email                       |
+| ------------------ | ---------- | --------------------------- |
+| Nguyễn Duy Đăng Khoa         | 21127078   | nddkhoa@clc.fitus.edu.vn    |
+| Lê Mỹ Khánh Quỳnh         | 21127681   | lmkquynh21@clc.fitus.edu.vn    |
 
 ## Introduction
 ### Dataset: **Most Popular Github Repositories (Projects)** - [Kaggle Link](https://www.kaggle.com/datasets/donbarbos/github-repos)
